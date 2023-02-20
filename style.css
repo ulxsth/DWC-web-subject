@@ -23,6 +23,27 @@ header {
   margin: 0 15px;
 }
 
+.content-image-box1 {
+  width: 300px;
+  height: 150px;
+  background-image: url("img/flow01.png");
+  background-size: cover;
+}
+
+.content-image-box2 {
+  width: 300px;
+  height: 150px;
+  background-image: url("img/flow02.png");
+  background-size: cover;
+}
+
+.content-image-box3 {
+  width: 300px;
+  height: 150px;
+  background-image: url("img/flow03.png");
+  background-size: cover;
+}
+
 footer {
   background-color: #AAAAAA;
   height: 50px;
