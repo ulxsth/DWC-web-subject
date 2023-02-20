@@ -17,6 +17,7 @@ header {
 }
 
 .contents-container {
+  position: relative;
   background-color: #EEEEEE;
   width: 300px;
   /*height: 500px;*/
@@ -43,6 +44,14 @@ header {
   background-image: url("img/flow03.png");
   background-size: cover;
   background-position: bottom;
+}
+
+.contents-container > span {
+  color: white;
+  position: absolute;
+  background-color: #FF9A4B;
+  top: 0;
+  left: 0;
 }
 
 footer {
