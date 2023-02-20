@@ -54,6 +54,10 @@ header {
   left: 0;
 }
 
+.contents-container > h3 {
+  margin: 5px auto;
+}
+
 footer {
   background-color: #AAAAAA;
   height: 50px;
