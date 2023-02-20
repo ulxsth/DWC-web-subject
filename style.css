@@ -10,6 +10,19 @@ header {
   height: 50px;
 }
 
+.main-container {
+  display: flex;
+  margin: 0 auto;
+  width: 960px;
+}
+
+.contents-container {
+  background-color: #EEEEEE;
+  width: 300px;
+  /*height: 500px;*/
+  margin: 0 15px;
+}
+
 footer {
   background-color: #AAAAAA;
   height: 50px;
