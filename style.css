@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+header {
+  background-color: #FF9A4B;
+  height: 50px;
+}
+
+footer {
+  background-color: #AAAAAA;
+  height: 50px;
+}
