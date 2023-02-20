@@ -63,7 +63,7 @@ footer {
 }
 
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 768px) {
   .lt-425 {
     width: 100%;
   }
