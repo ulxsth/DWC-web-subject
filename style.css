@@ -21,27 +21,28 @@ header {
   width: 300px;
   /*height: 500px;*/
   margin: 0 15px;
+  padding: 10px;
 }
 
 .content-image-box1 {
-  width: 300px;
   height: 150px;
   background-image: url("img/flow01.png");
   background-size: cover;
+  background-position: bottom;
 }
 
 .content-image-box2 {
-  width: 300px;
   height: 150px;
   background-image: url("img/flow02.png");
   background-size: cover;
+  background-position: bottom;
 }
 
 .content-image-box3 {
-  width: 300px;
   height: 150px;
   background-image: url("img/flow03.png");
   background-size: cover;
+  background-position: bottom;
 }
 
 footer {
