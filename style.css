@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: #6c6b6b;
 }
 
 header {
@@ -12,7 +11,7 @@ header {
 
 .main-container {
   display: flex;
-  margin: 0 auto;
+  margin: 50px auto;
   width: 960px;
 }
 
@@ -61,4 +60,20 @@ header {
 footer {
   background-color: #AAAAAA;
   height: 50px;
+}
+
+
+@media screen and (max-width: 425px) {
+  .lt-425 {
+    width: 100%;
+  }
+  
+  .main-container {
+    display: block;
+  }
+  
+  .contents-container {
+    width: 90%;
+    margin: 20px auto;
+  }
 }
